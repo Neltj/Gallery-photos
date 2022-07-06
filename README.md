@@ -1,2 +1,2 @@
-# Ciao questa è la mia galleria di foto ma non so perche non si carica
+Ciao sono un studente autodidatta e studio programmazione
 
